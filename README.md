@@ -1,4 +1,6 @@
-## Hi, I'm prank👋, a person who loves the world of technology and programming, looking to gain more knowledge and experience in data handling, software, programming, etc.
+## Hi, I'm prank👋
+
+I am a person who loves the world of technology and programming, and I am looking to acquire more knowledge and experience in data handling, software, programming, etc.
 
 <div align="Center">
 <img width="200" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
