@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/CtorW">
-<img src="https://i.pinimg.com/originals/c7/95/b8/c795b89b32b49872f00e523a99a9c68a.gif" width="800" />
+<img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="800" />
 </a>
 
 ## 🛠️ My Skills
