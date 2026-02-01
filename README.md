@@ -1,4 +1,4 @@
-## Hi, I'm prank👋
+## Hi, I'm Jose👋
 
 I am a person who loves the world of technology and programming, and I am looking to acquire more knowledge and experience in data handling, software, programming, etc.
 
