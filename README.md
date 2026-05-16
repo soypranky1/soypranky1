@@ -90,7 +90,6 @@
 </pre>
       </td>
       <td width="45%" valign="middle" align="center">
-        <p><b>gato@nixos</b></p>
         <br>
         <a href="https://github.com/kittinan/spotify-github-profile">
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5wnycc6wndnez3q2naa532tqy&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark" width="300" alt="Spotify Profile">
