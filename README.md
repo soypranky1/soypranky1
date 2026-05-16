@@ -10,7 +10,7 @@
     <td align="left">
       <h1>Sobre mí</h1>
       <p>¡Hola! Soy <b>Jose Francisco</b>, un estudiante y desarrollador apasionado por el mundo de la tecnología y la ingeniería de (software, sistemas y datos). Mi camino en la programación comenzó con la curiosidad de entender cómo funcionan las cosas, lo que me llevó a explorar de forma autodidacta las bases de la lógica y la computación.</p>
-      <p>Actualmente me encuentro cursando mis <b>estudios universitarios en ingeniería</b>, donde busco consolidar mis habilidades técnicas y teóricas. Me dedico a construir aplicaciones web completas, resolver problemas de lógica algorítmica y optimizar flujos de trabajo en sistemas basados en linux igualmente cuento con conocimientos en técnico en soporte y equipo de computo.</p>
+      <p>Actualmente me encuentro cursando mis <b>estudios universitarios en ingeniería</b>, donde busco consolidar mis habilidades técnicas y teóricas. Me dedico a construir aplicaciones web completas, resolver problemas de lógica algorítmica y optimizar flujos de trabajo en sistemas basados en lenguajes de programación igualmente cuento con conocimientos en técnico en soporte e mantenimiento equipo de computo.</p>
     </td>
   </tr>
 </table>
