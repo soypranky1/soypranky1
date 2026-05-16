@@ -1,6 +1,6 @@
-## Hi, I'm Jose👋
+## # Hi, I'm Jose 👋
 
-I am a person who loves the world of technology and programming, and I am looking to acquire more knowledge and experience in data handling, software, programming, etc.
+I am a passionate developer focused on the world of technology and programming. Currently deepening my knowledge in software engineering, frontend development, and data handling. I love exploring new technologies, solving complex logic problems, and building functional applications.
 
 <div align="Center">
 <img width="200" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
