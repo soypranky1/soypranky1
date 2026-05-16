@@ -1,6 +1,8 @@
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 20px; max-width: 90%; margin: 0 auto; background-color: #0d1117;" align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5wnycc6wndnez3q2naa532tqy&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark" width="300" alt="Spotify Profile">
-</div>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5wnycc6wndnez3q2naa532tqy&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark" width="350" alt="Spotify Profile">
+  </a>
+</p>
 
 <br>
 
@@ -33,34 +35,41 @@
   <br>
   
   <h3><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="40px" valign="middle"/> Programming languages</h3>
-
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  <p align="left">
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  </p>
 
   <h3><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="40px" valign="middle"/> Frontend Development</h3>
-
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  <p align="left">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  </p>
 
   <h3><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="40px" valign="middle"/> Software & Tools</h3>
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <p align="left">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&white">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </p>
 
   <h3><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="40px" valign="middle"/> Operating Systems</h3>
-
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  <p align="left">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </p>
   
   <br><hr noshade size="1"><br>
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <pre style="margin: 0;">
+  <div align="center">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td valign="top">
+<pre style="margin: 0; font-size: 11px; line-height: 12px;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣯⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -93,13 +102,14 @@
 ⠀⣾⢟⠿⠿⢶⣮⡙⢏⢢⡀⢠⡌⣿⣿⡿⠟⡿⢳⣼⣿⣿⣿⣾⣿⣧⣤⣤⣤⣿⣿⣭⣿⠁⠀⠀⣀⣈⣧⠀
 ⢺⣥⢿⠾⠿⠿⠿⡿⠚⢋⣠⠯⣿⢉⢉⠻⠾⠛⢿⣿⠻⠿⢛⢋⣤⣯⣭⠽⠶⣾⣻⢿⣻⢿⠶⢛⣻⡿⢽⠄
 </pre>
-    <div align="center">
-<pre style="margin: 0; text-align: left;">
-      gato@nixos
+        </td>
+        <td valign="middle" align="center" style="padding-left: 30px;">
+<pre style="margin: 0; text-align: left; font-family: monospace;">
+<b>gato@nixos</b>
 </pre>
-      <br>
-      <img src="https://codewars.com/users/miguelacaceresrios/badges/large-dark" alt="Codewars Badge">
-    </div>
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
 
@@ -117,9 +127,8 @@
   <br><hr noshade size="1"><br>
   
   <div>
-    <div align="center"><h2>🎓 Educacion</h2></div>
+    <div align="center"><h2>🎓 Educación</h2></div>
     <br>
-    <p>Desde # content</p>
     <p>En 2014 comencé a trabajar con distintos motores (Unity, Unreal, Godot) y lenguajes (C#, C++, Python), creando mis primeros prototipos. Con los años desarrollé mejores hábitos, dominio técnico y una visión completa de la ingeniería de software.</p>
     <p>2023: Destaco en mis estudios técnicos. Actualmente curso una carrera universitaria y mi meta es consolidarme en la industria tecnológica con una experiencia sólida que abarca más de una década de evolución constante.</p>
   </div>
