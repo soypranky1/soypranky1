@@ -1,75 +1,86 @@
-## # Hi, I'm Jose 👋
+<table>
+  <tr>
+    <td>
+      <h2>👋 Sobre mí</h2>
+      <p>Soy un desarrollador apasionado por el mundo de la tecnología y la programación. Actualmente me encuentro cursando mis estudios universitarios en ingeniería, enfocado en profundizar mis conocimientos en el desarrollo de software, lógica algorítmica y la creación de aplicaciones funcionales.</p>
+      <p>Me motiva resolver problemas complejos, optimizar código y explorar constantemente nuevas herramientas y sistemas operativos para expandir mi dominio técnico.</p>
+    </td>
+  </tr>
+</table>
 
-I am a passionate developer focused on the world of technology and programming. Currently deepening my knowledge in software engineering, frontend development, and data handling. I love exploring new technologies, solving complex logic problems, and building functional applications.
+<br>
 
-<div align="center">
-  <img width="200" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+<pre>
+<b>jose@github_profile</b>
+---------------------
+<b>OS</b>      : Arch Linux / Ubuntu
+<b>HOST</b>    : Jose Francisco
+<b>KERNEL</b>  : Student_Engine_v1.0
+<b>SHELL</b>   : bash / zsh
+<b>TERM</b>    : VS Code Terminal
+<b>EDITOR</b>  : Vim / VSCode
+<b>LANGS</b>   : C++, Java, Python, JS
+<b>FRAME</b>   : Frontend Dev
+</pre>
+    </td>
+    
+    <td width="50%" valign="top" align="center">
+      <a href="https://leetcode.com/soypranky1" target="_blank">
+        <img src="https://leetcode-stats-six.vercel.app/api?username=soypranky1&theme=dark" alt="LeetCode Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://github.com/soypranky1">
-    <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="220" />
-  </a>
-</div>
+<br>
 
-<div align="center">
+<table>
+  <tr>
+    <td>
+      <div align="center"><h2>🛠️ Technical Skills</h2></div>
+      
+      <p align="center">
+        <b>Languages:</b><br>
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
+      </p>
+      
+      <p align="center">
+        <b>Frontend & Tools:</b><br>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white">
+      </p>
 
-## 🛠️ My Skills
+      <p align="center">
+        <b>Environments:</b><br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> &nbsp;
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br>
 
----
+<table>
+  <tr>
+    <td>
+      <div align="center"><h3>🧠 Competitive Programming</h3></div>
+      <p align="center">
+        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> &nbsp;
+        <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> &nbsp;
+        <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px" valign="middle"> </picture> Programming languages
 
-<p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"> &emsp;
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"> &emsp;
-  <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white">
-</p>
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="30px" valign="middle"> </picture> Frontend Development
-
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"> &emsp;
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"> &emsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black">
-</p>
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="30px" valign="middle"> </picture> Software & Tools
-
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"> &emsp;
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"> &emsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"> &emsp;
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white">
-</p>
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="30px" valign="middle"> </picture> Competitive Programming & Problem Solving
-
-<p align="center">
-  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"> &emsp;
-  <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"> &emsp;
-  <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445?style=flat&logo=Codeforces&logoColor=white"> &emsp;
-  <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white"> &emsp;
-  <img alt="Google" src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white">
-</p>
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="30px" valign="middle"> </picture> Operating Systems
-
-<p align="center">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> &emsp;
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"> &emsp;
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
-</p>
-
----
-
-<div align="center">
-
-<p>I'm a passionate developer always learning new technologies!</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soypranky1&theme=dark" height="150" />
-</p>
-
-</div>
